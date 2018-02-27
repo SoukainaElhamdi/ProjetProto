@@ -12,10 +12,10 @@ Valeurs :
 
 2- Aider les nouveaux permis à traverser la peur de la première expérience avec les voitures.  Réduire les charges d’apprentissage, en ayant une assistance. 
 
-3- Offrir un systeme d'assistance qui complete les informations apportées par l'accompagnateur et offre une meilleure formation. 
+3- Offrir un systeme d'assistance qui complete les informations apportées par l'accompagnateur et qui offre une meilleure formation. 
 
 
-En tant qu'une personne âgée le service me permet de conduire avec vigilence et avec plus de rassurance et donc de je reduis les risques d'accident.
+En tant qu'une personne âgée le service me permet de conduire avec vigilence et avec plus de rassurance et donc je reduis les risques d'accident.
 
 En tant que nouveau permis le service me permet d'affrancir le cap de peur des voitures  et donc de  conduire avec plus de rassurance et de confiance, ce qui m'evite de faire des accidents.
 
